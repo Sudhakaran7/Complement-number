@@ -1,0 +1,42 @@
+Given a number N, output its complement number.
+to find complement number, find the number's binary representation and replace 1 by 0 and 0 by 1
+
+Input Description:
+N as a integer
+
+Output Description:
+Complement number of the given number
+
+Sample Input:
+10
+
+Sample Output:
+5
+
+Explanation:
+the binary representation of the 10 is 1010, so we replace the 1's and 0's, -> 0101
+0101 is binary representation of 5, so the output is 5
+
+Sample Input:
+7
+
+Sample output:
+0
+
+Sample Input:
+14
+
+Sample Output:
+1
+
+Sample Input:
+23
+
+Sample Output:
+8
+
+Sample Input:
+8
+
+Sample Output:
+7
